@@ -1,0 +1,9 @@
+E:\MPD_20172018\20171213Win_DBConnection\20171213Win_DBConnection\bin\Debug\20171213Win_DBConnection.exe.config
+E:\MPD_20172018\20171213Win_DBConnection\20171213Win_DBConnection\bin\Debug\20171213Win_DBConnection.exe
+E:\MPD_20172018\20171213Win_DBConnection\20171213Win_DBConnection\bin\Debug\20171213Win_DBConnection.pdb
+E:\MPD_20172018\20171213Win_DBConnection\20171213Win_DBConnection\obj\Debug\20171213Win_DBConnection.csprojResolveAssemblyReference.cache
+E:\MPD_20172018\20171213Win_DBConnection\20171213Win_DBConnection\obj\Debug\_20171213Win_DBConnection.Form1.resources
+E:\MPD_20172018\20171213Win_DBConnection\20171213Win_DBConnection\obj\Debug\_20171213Win_DBConnection.Properties.Resources.resources
+E:\MPD_20172018\20171213Win_DBConnection\20171213Win_DBConnection\obj\Debug\20171213Win_DBConnection.csproj.GenerateResource.Cache
+E:\MPD_20172018\20171213Win_DBConnection\20171213Win_DBConnection\obj\Debug\20171213Win_DBConnection.exe
+E:\MPD_20172018\20171213Win_DBConnection\20171213Win_DBConnection\obj\Debug\20171213Win_DBConnection.pdb
